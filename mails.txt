@@ -1,0 +1,67 @@
+Your ESS Portal Pin and Password
+
+info@excelityglobal.comReplyReply AllForwardActions
+To:
+ Manshad, Syed 
+ Monday, July 10, 2017 7:25 PM
+Dear Syed Manshad,
+
+Welcome to Excelity Global
+
+It has been our effort to provide you with Self Service options to resolve your queries in respect of your Payroll data. 
+Towards this endeavor, we have the Self Service product, which allows you access to your payroll data through the web.
+
+Enclosed please find your 10 digit Personal Identification Number (PIN) and 8 letter password which you can use to login to
+ access your individual data regarding payroll on our website which is https://ess.excelityglobal.com/
+
+PIN - 0049922743
+PASSWORD - JbkhoWjk
+NEW PASSWORD:H@nna543
+
+
+
+
+ Saturday, June 16, 2018 12:14 AM
+Dear Colleague, 
+
+Your Form-16 for the financial year 2017-2018 has been hosted on Excelity website. Logon to https://ess.excelityglobal.com/ & use the following link to view/download the Form-16. 
+
+Excelity Portal > My Reports> My Signed Form-16
+
+The Form-16 is password protected. The password to open the Form-16 is your 10 digits PAN followed by date of birth (DDMMYYYY). For example: if your PAN is ABCDE1234F and date of birth is 17-Sep-1983, then the password is ABCDE1234F17091983. If you do not have the PAN, then the password to open Form-16 is your date of birth in DDMMYYYY format.
+
+It is important to validate the digital signature of the Form-16. To check the validity / authenticity of the digital signature, please download the Form 16 on to your hard disk & follow the signature validation process (view Trusting Digital Signature docs documents available on Hrworkways/ Excelity Portal), depending on the adobe version installed in your system.  
+
+The Process Flow for Trusting the Digital Signature” is also available on the portal in path:
+
+Excelity Portal>> My Reports >>Trusting Digital Signature docs.
+
+Adobe Ver. 7 & 8 Trust Digital Signature 
+
+Adobe Ver. 9 & 10 Trust Digital Signature 
+
+Adobe Ver.11 & Above Trust Digital Signature
+
+The Form-16 is digitally signed in PDF format. The Form 16 format is as per statute and does not reflect the Tax refund details as a separate line item. The difference between 'Tax Deducted' (top right corner of the first page of Part A) and 'Tax Payable' (Row no.17, of the second page of Part B) will be your refund amount if any.
+
+Please note that, Form-16 has two parts:
+
+Part A:- As downloaded from TRACES (web based portal of Income Tax Department to administer tax reconciliation) which has the details of your TDS deducted in the Financial Year 17-18. Further please note that, Part A will not get generated on TRACES where there has been no income tax deduction in this financial year, or, if there's no valid PAN for an individual. 
+
+Your name & address in the Form-16 is as per the address mentioned by you while applying your PAN which cannot be changed either by employer or payroll vendor.
+
+In case of change in the address, you are required to do the address correction in PAN database by logging on to https://tin.tin.nsdl.com/pan/correction.html
+
+Part B:- Form 16 as prepared by your employer which has the details of salary paid in  Financial Year 2017-18. 
+
+Please do save your Form 16 copy for any future reference without fail.
+
+Please note as per Income Tax Notification NO. 34/2013, DATED 1-5-2013, it is mandatory to file the individual income-tax return for income above INR. Five Lac for the FY 2017-18.
+
+Please address queries if any to info@excelityglobal.com 
+
+Regards,
+
+Excelity Global
+
+On behalf of Capgemini Technology Services India Ltd.
